@@ -1,4 +1,4 @@
-from flet import Page, SafeArea, Container, Column, Row, Text, TextField, AppView, app, MainAxisAlignment, CrossAxisAlignment
+from flet import Page, SafeArea, Column, Text, TextField, AppView, app, MainAxisAlignment, CrossAxisAlignment
 
 
 def main(page: Page) -> None:
